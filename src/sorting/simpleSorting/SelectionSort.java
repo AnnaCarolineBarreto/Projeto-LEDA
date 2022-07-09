@@ -31,10 +31,6 @@ public class SelectionSort extends AbstractSorting {
 			}
 			
 			Util.swap(array, i, min);
-			
-			if ( (i % 10000) == 0 ) {
-				System.out.println(i);
-			}
 		}
 	}
 

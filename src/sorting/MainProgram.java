@@ -142,7 +142,7 @@ public class MainProgram {
 			}
 		}
 		catch (IOException e) {
-			System.out.println("Antes de executar o programa principal voce deve executar o método\n"
+			System.out.println("Antes de executar o programa principal voce deve executar o metodo\n"
 					         + "main da classe FormatDate no caminho: " + FormatPath.getPath("src\\dataProcessing\\FormatDate") + "\n");
 		}
 		
