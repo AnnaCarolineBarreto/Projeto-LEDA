@@ -15,4 +15,6 @@ Este é repositório contém um projeto para ordedanação de dados brutos de re
 2. Para gerar o arquivo que classifica senhas em "Boas" e "Muito Boas", deve-se executar a classe ClassifyPassword no caminho: src\dataProcessing\ClassifyPassword
 3. Por fim, para gerar os arquivos ordenados, deve-se executar a classe MainProgram no caminho: src\sorting\MainProgram. Ao executar esta classe um menu de opções será fornecido ao usuário para ordenar o arquivo de acordo com os parâmetros desejados.
 
-**Observação**: Dependendo da IDE escolhida pelo usuário, pode ser necessário atualizar a pasta (*refresh*) do caminho informado para visualizar os arquivos gerados. 
+**Observação 1**: Dependendo da IDE escolhida pelo usuário, pode ser necessário atualizar a pasta (*refresh*) do caminho informado para visualizar os arquivos gerados.
+
+**Observação 2**: O relatório deste projeto encontra-se na pasta raiz desse repositório.
