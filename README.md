@@ -1,6 +1,6 @@
 # Projeto da disciplina Laboratório de Estrutura de Dados - 2022.1 
 
-Este é repositório contém um projeto para ordedanação de dados brutos de registro de senha.  Os seguintes algoritmos de ordenação foram implementados:
+Este repositório contém um projeto para ordedanação de dados brutos de registro de senha.  Os seguintes algoritmos de ordenação foram implementados:
  - [X] SelectionSort; 
  - [X] InsertionSort; 
  - [X] MergeSort;
