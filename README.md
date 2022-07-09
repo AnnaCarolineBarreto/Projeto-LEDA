@@ -18,3 +18,5 @@ Este repositório contém um projeto para ordedanação de dados brutos de regis
 **Observação 1**: Dependendo da IDE escolhida pelo usuário, pode ser necessário atualizar a pasta (*refresh*) do caminho informado para visualizar os arquivos gerados.
 
 **Observação 2**: O relatório deste projeto encontra-se na pasta raiz desse repositório.
+
+**Observação 3**: O projeto foi compilado na versão 11 do java JDK.
